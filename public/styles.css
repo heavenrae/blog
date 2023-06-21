@@ -1,0 +1,32 @@
+*{
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+h1{
+    color: #b78dc4;
+}
+
+table {
+    width: 100%;
+  }
+  
+th, td {
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+  }
+  
+th {
+    background-color: #ffffff;
+    outline: #413f3f;
+  }
+
+#createNewPostButton{
+  margin-top: 5%;
+  padding: 10px;
+  background-color: #b78dc4;
+  font-family: 'Times New Roman';
+}
+
